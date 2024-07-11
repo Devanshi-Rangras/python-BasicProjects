@@ -1,0 +1,1 @@
+words = ["dev","apple","beautiful","mango","college","aeroplane","cherry"]
